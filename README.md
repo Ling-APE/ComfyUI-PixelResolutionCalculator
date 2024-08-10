@@ -2,7 +2,7 @@
 
 This node is used in the All-in-one Flux Dev workflow I made.
 
-There is two node:
+There is two nodes:
 * PixelResolutionCalculator
 * LatentSizeToPixelSize
 
