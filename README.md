@@ -1,6 +1,6 @@
 # ComfyUI-PixelResolutionCalculator
 
-This node is used in the All-in-one Flux Dev workflow I made.
+This node is used in the [All-in-one Flux Dev workflow](https://github.com/Ling-APE/ComfyUI-All-in-One-FluxDev-Workflow) I made.
 
 There is two nodes:
 * PixelResolutionCalculator
