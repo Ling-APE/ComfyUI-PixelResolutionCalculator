@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-pixelresolutioncalculator"
+description = "Simple resuluition calculator to convert pixel resolution and aspect ratio to laten friendlt pixel width and height size."
+version = "1.0.0"
+license = {file = "LICENSE"}
+
+[project.urls]
+Repository = "https://github.com/Ling-APE/ComfyUI-PixelResolutionCalculator"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-PixelResolutionCalculator"
+Icon = ""
